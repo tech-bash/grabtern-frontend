@@ -355,9 +355,9 @@ function Index({ mentorDetail, bookSession, sessionID }) {
           </div>
           <div className="bookSession">
             <div className="bookSesssionInfo">
-              <h2>{bookSession.name}</h2>
+              <h2>1:1 Mentorship</h2>
               <h4>
-                <b>Book Dession type:</b> <p>{bookSession.type}</p>
+                <b>Book Session type:</b> <p>{bookSession.type}</p>
               </h4>
               <p className="description">
                 <b>Book Session description:</b>{" "}
